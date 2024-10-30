@@ -22,3 +22,5 @@ La geografía de España, desde las playas doradas de la Costa del Sol hasta las
 España es también un país de innovación y progreso, con una economía vibrante y ciudades como Madrid y Barcelona destacándose como centros globales de arte, comercio y tecnología. Sin embargo, lo que realmente define a España es su gente: acogedora, apasionada y orgullosa de su herencia.
 
 En resumen, España es una nación que combina tradición y modernidad, naturaleza y urbanismo, creando un mosaico cultural único que encanta a todos los que la visitan. ***¡Viva España!*** :es:
+
+![ESPAÑAMAPA]https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.123rf.com%2Fphoto_28865942_mapa-de-espa%25C3%25B1a-esquema-ilustraci%25C3%25B3n-mapa-del-pa%25C3%25ADs-con-las-principales-ciudades-de-las-comunidades.html&psig=AOvVaw1MpYmtkK7LnbR3loAOz466&ust=1730366006332000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjLifLhtYkDFQAAAAAdAAAAABAE)
